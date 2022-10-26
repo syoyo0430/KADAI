@@ -72,14 +72,22 @@ footer{
     width: 100%;
   }
   main{
-    width: 100%;
     display: block;
   }
   .step-box{
-    width: 100%;
+    width: 90%;
     margin: 20px;
   }
   .step-box:last-child {
     margin: 20px;
+  }
+  .step-img1{
+    height: 300px;
+  }
+  .step-img2{
+    height: 300px;
+  }
+  .step-img3{
+    height: 300px;
   }
 }
